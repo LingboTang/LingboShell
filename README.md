@@ -1,0 +1,2 @@
+# LingboShell
+Shell script
